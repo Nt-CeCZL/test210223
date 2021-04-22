@@ -1,3 +1,3 @@
 # test210422
 	-feature-A
-	-リセット
+	-restart
